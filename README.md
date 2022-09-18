@@ -1,1 +1,30 @@
-# bikesharing
+# Bikesharing 🚴🤝
+
+## Purpose 
+
+The purpose of this challenge was to showcase a citibike trip analysis through Tabeleau to our investors that a bike-sharing program in Des Moine is a great business proposal. 
+
+The anlaysis helped the investors understand: 
+
+1. The length of time that bikes are checked out for all riders and genders
+2. The number of bike trips for all riders and genders for each hour of each day of the week
+3. The number of bike trips for each type of user and gender for each day of the week.
+
+### Tableau Analysis Story - [link to dashboard](https://public.tableau.com/app/profile/suchitra8128/viz/Bikesharing_Challenge_16635265541890/CitiBikeUserStory?publish=yes)
+
+##During the course of the module - We created mutiple visualizations. The two I'd like to showcase are below: 
+
+### Peak Hours of August 
+![image](https://user-images.githubusercontent.com/102767530/190921705-7c85ff1b-9458-4778-bbca-65696b808e05.png)
+- This bar graph shows the hours throughout the month of August citibikes were most utlized. There is a spike in usage from 7-9pm.
+
+### Bike Utilization
+![image](https://user-images.githubusercontent.com/102767530/190921851-c22f2c70-816f-49ef-8659-f124f07564b9.png)
+- This circle heatmap shows what proportion of the bikes are getting spikes in usage. It showcases usage by the size, color, and shade. The colors in the outer ring are getting more usage and will need more replairs. 
+
+### Checkout Times for Users
+![image](https://user-images.githubusercontent.com/102767530/190923456-c77c2e95-b6b0-4ed2-92c3-359bbb7ac16e.png)
+
+Citibikes are used for a longer period of time in the morning than the afternoon.
+
+
