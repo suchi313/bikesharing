@@ -12,7 +12,7 @@ The anlaysis helped the investors understand:
 
 ### Tableau Analysis Story - [link to dashboard](https://public.tableau.com/app/profile/suchitra8128/viz/Bikesharing_Challenge_16635265541890/CitiBikeUserStory?publish=yes)
 
-##During the course of the module - We created mutiple visualizations. The two I'd like to showcase are below: 
+## During the course of the module - We created mutiple visualizations. The two I'd like to showcase are below: 
 
 ### Peak Hours of August 
 ![image](https://user-images.githubusercontent.com/102767530/190921705-7c85ff1b-9458-4778-bbca-65696b808e05.png)
