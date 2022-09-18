@@ -37,4 +37,11 @@ Citibikes are used during commute times - 9AM or 5PM. By gender, it is shown tha
 ![image](https://user-images.githubusercontent.com/102767530/190923634-4f4350b3-05b3-4b9d-897b-00a29d6a83ee.png)
 
 
+# Summary 
+In conclusion, CitiBike is an extremely popular service for large cities. The users of this particular service is made of male subcribers. They utlize the service habitually on their commutes. 
+
+To bolster up the proposal to the innvestors, I would recommend exploring: 
+
+1. Trip starting and ending locations during morning and evening rush hour (9am to 5pm), to showcase peak hours.
+2. Average trip duration - by birth year and by gender. This will help showcase which of our audience we can tap into for marketing/ads.
 
