@@ -24,18 +24,18 @@ The anlaysis helped the investors understand:
 
 ### Checkout Times for Users
 ![image](https://user-images.githubusercontent.com/102767530/190923456-c77c2e95-b6b0-4ed2-92c3-359bbb7ac16e.png)
-From reviewing the data, it shows there are more subscribers using the bikes than there are customers. Especially during the weekends. 
 
-Citibikes are used for a longer period of time in the morning than the afternoon.
+- Citibikes are used for a longer period of time in the morning than the afternoon.
 
 ### Trips by Gender During the  Weekday
 ![image](https://user-images.githubusercontent.com/102767530/190923541-5f4f88f6-4028-4ef7-a44d-d331a1f23e04.png)
 
-Citibikes are used during commute times - 9AM or 5PM. By gender, it is shown that Men utlize the service more.
+- Citibikes are used during commute times - 9AM or 5PM. By gender, it is shown that Men utlize the service more.
 
 ### User Trips 
 ![image](https://user-images.githubusercontent.com/102767530/190923634-4f4350b3-05b3-4b9d-897b-00a29d6a83ee.png)
 
+- From reviewing the data, it shows there are more subscribers using the bikes than there are customers of the service. Especially during the weekends.
 
 # Summary 
 In conclusion, CitiBike is an extremely popular service for large cities. The users of this particular service is made of male subcribers. They utlize the service habitually on their commutes. 
